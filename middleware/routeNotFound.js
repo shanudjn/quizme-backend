@@ -1,5 +1,9 @@
 const routeNotFound = (req, res) => {
-    res.json({ success: false, message: "Route Not Found" })
+    try {
+        res.json({ success: false, message: "Route Not Found" })
+    } catch (error) {
+        res.json({ error: error.message })
+    }
 }
 
 module.exports = { routeNotFound };
