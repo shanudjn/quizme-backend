@@ -167,81 +167,81 @@ const quizzes = [
     },
     {
         topicId: "RDR3",
-        topicName: "Red Dead Redemption",
+        topicName: "Batman Arkham Knight",
         questions: [
             {
                 questionNo: 1,
-                question: "What's the name of the protagonist of RDR2 ?",
+                question: "Which Of These Villians Does Not Appear In The Game?",
                 points: 5,
                 negativePoints: 2,
                 options: [
                     {
                         optionId: 1,
-                        option: "Arthur Morgan",
+                        option: "Bane",
                         isRight: true
                     },
                     {
                         optionId: 2,
-                        option: "Micah Bell",
+                        option: "Riddler",
                         isRight: false
                     }, {
                         optionId: 3,
-                        option: "Sadie Adler",
+                        option: "Penguin",
                         isRight: false
                     }, {
                         optionId: 4,
-                        option: "Hosea Mathews",
-                        isRight: false
+                        option: "Poison Ivy",
+                        isRight: true
                     },
                 ]
             },
             {
                 questionNo: 2,
-                question: "Who is Leviticus Cornwall ?",
+                question: "Who Is The First Major Character You Encounter As Batman?",
                 points: 5,
                 negativePoints: 2,
                 options: [
                     {
                         optionId: 1,
-                        option: "A sheriff from Ambarino",
+                        option: "Mr. Freeze",
                         isRight: false
                     },
                     {
                         optionId: 2,
-                        option: "A wealthy businessman",
+                        option: "Poison Ivy",
                         isRight: true
                     }, {
                         optionId: 3,
-                        option: "A member of Van der Linde gang",
+                        option: "Arkham Knight",
                         isRight: false
                     }, {
                         optionId: 4,
-                        option: "An agent of Pinkerton National Detective Agency.",
+                        option: "Scarecrow",
                         isRight: false
                     },
                 ]
             }, {
                 questionNo: 3,
-                question: "What's the name of the antagonist of RDR2 ?",
+                question: "Which Character Is Thought To Have Committed Suicide In The Story?",
                 points: 5,
                 negativePoints: 2,
                 options: [
                     {
                         optionId: 1,
-                        option: "Dutch Van der Linde",
+                        option: "Night Wing",
                         isRight: false
                     },
                     {
                         optionId: 2,
-                        option: "Micah Bell",
+                        option: "Oracle",
                         isRight: true
                     }, {
                         optionId: 3,
-                        option: "John Marston",
+                        option: "Alfred",
                         isRight: false
                     }, {
                         optionId: 4,
-                        option: "Hosea Mathews",
+                        option: "Robin",
                         isRight: false
                     },
                 ]
@@ -250,81 +250,81 @@ const quizzes = [
     },
     {
         topicId: "RDR4",
-        topicName: "Red Dead Redemption",
+        topicName: "GTA V",
         questions: [
             {
                 questionNo: 1,
-                question: "What's the name of the protagonist of RDR2 ?",
+                question: "With what character you start the game?",
                 points: 5,
                 negativePoints: 2,
                 options: [
                     {
                         optionId: 1,
-                        option: "Arthur Morgan",
+                        option: "Franklin",
                         isRight: true
                     },
                     {
                         optionId: 2,
-                        option: "Micah Bell",
+                        option: "Michael",
                         isRight: false
                     }, {
                         optionId: 3,
-                        option: "Sadie Adler",
+                        option: "Trevor",
                         isRight: false
                     }, {
                         optionId: 4,
-                        option: "Hosea Mathews",
+                        option: "Lamar",
                         isRight: false
                     },
                 ]
             },
             {
                 questionNo: 2,
-                question: "Who is Leviticus Cornwall ?",
+                question: "What is the name of Franklin's dog ?",
                 points: 5,
                 negativePoints: 2,
                 options: [
                     {
                         optionId: 1,
-                        option: "A sheriff from Ambarino",
+                        option: "Chad",
                         isRight: false
                     },
                     {
                         optionId: 2,
-                        option: "A wealthy businessman",
+                        option: "Chop",
                         isRight: true
                     }, {
                         optionId: 3,
-                        option: "A member of Van der Linde gang",
+                        option: "Cherry",
                         isRight: false
                     }, {
                         optionId: 4,
-                        option: "An agent of Pinkerton National Detective Agency.",
+                        option: "Roger",
                         isRight: false
                     },
                 ]
             }, {
                 questionNo: 3,
-                question: "What's the name of the antagonist of RDR2 ?",
+                question: "What Was Michael's Name Before Wit-Sec?",
                 points: 5,
                 negativePoints: 2,
                 options: [
                     {
                         optionId: 1,
-                        option: "Dutch Van der Linde",
+                        option: "Tonto",
                         isRight: false
                     },
                     {
                         optionId: 2,
-                        option: "Micah Bell",
+                        option: "Townley",
                         isRight: true
                     }, {
                         optionId: 3,
-                        option: "John Marston",
+                        option: "Trejo",
                         isRight: false
                     }, {
                         optionId: 4,
-                        option: "Hosea Mathews",
+                        option: "Townsend",
                         isRight: false
                     },
                 ]

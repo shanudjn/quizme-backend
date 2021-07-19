@@ -30,9 +30,12 @@ initializeDBConnection();
 
 
 
+
+
 app.get('/', (req, res) => {
     res.status(200).json({ "success": true, "message": "Hello Express App" })
 })
+// populateQuizCollection();
 
 //Routers
 
@@ -50,4 +53,3 @@ app.use(routeNotFound)
 app.listen(process.env.PORT || 8080, () => {
     console.log('Server Started ✅')
 })
-// populateQuizCollection();
